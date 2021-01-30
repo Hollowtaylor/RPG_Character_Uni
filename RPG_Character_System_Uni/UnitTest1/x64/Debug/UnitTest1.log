@@ -1,0 +1,121 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (UnitTest1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  unittest1.cpp
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(16): error C2065: 'Brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(16): error C2146: syntax error: missing ';' before identifier 'brawler'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(16): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(16): error C2653: 'CharacterState': is not a class or namespace name
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(16): error C2065: 'Idle': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(19): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(19): error C2228: left of '.GetName' must have class/struct/union
+  c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(19): note: type is 'unknown-type'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(30): error C2065: 'Brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(30): error C2146: syntax error: missing ';' before identifier 'brawler'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(30): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(30): error C2653: 'CharacterState': is not a class or namespace name
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(30): error C2065: 'Idle': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(33): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(33): error C2228: left of '.Eat' must have class/struct/union
+  c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(33): note: type is 'unknown-type'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(34): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(34): error C2228: left of '.GetFood' must have class/struct/union
+  c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(34): note: type is 'unknown-type'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(47): error C2065: 'Brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(47): error C2146: syntax error: missing ';' before identifier 'brawler'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(47): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(47): error C2653: 'CharacterState': is not a class or namespace name
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(47): error C2065: 'Idle': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(50): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(50): error C2228: left of '.Eat' must have class/struct/union
+  c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(50): note: type is 'unknown-type'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(51): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(51): error C2228: left of '.GetHealth' must have class/struct/union
+  c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(51): note: type is 'unknown-type'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(62): error C2065: 'Brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(62): error C2146: syntax error: missing ';' before identifier 'brawler'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(62): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(62): error C2653: 'CharacterState': is not a class or namespace name
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(62): error C2065: 'Idle': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(65): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(65): error C2228: left of '.Eat' must have class/struct/union
+  c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(65): note: type is 'unknown-type'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(66): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(66): error C2228: left of '.GetHealth' must have class/struct/union
+  c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(66): note: type is 'unknown-type'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(87): error C2065: 'Brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(87): error C2146: syntax error: missing ';' before identifier 'brawler'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(87): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(87): error C2653: 'CharacterState': is not a class or namespace name
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(87): error C2065: 'Idle': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(90): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(90): error C2228: left of '.Defend' must have class/struct/union
+  c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(90): note: type is 'unknown-type'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(91): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(91): error C2228: left of '.GetState' must have class/struct/union
+  c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(91): note: type is 'unknown-type'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(102): error C2065: 'Brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(102): error C2146: syntax error: missing ';' before identifier 'brawler'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(102): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(102): error C2653: 'CharacterState': is not a class or namespace name
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(102): error C2065: 'Idle': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(105): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(105): error C2228: left of '.Defend' must have class/struct/union
+  c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(105): note: type is 'unknown-type'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(106): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(106): error C2228: left of '.GetEqippedArmour' must have class/struct/union
+  c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(106): note: type is 'unknown-type'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(126): error C2065: 'Brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(126): error C2146: syntax error: missing ';' before identifier 'brawler'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(126): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(126): error C2653: 'CharacterState': is not a class or namespace name
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(126): error C2065: 'Idle': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(127): error C2065: 'Weapon': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(127): error C2146: syntax error: missing ';' before identifier 'spear'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(127): error C2065: 'spear': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(128): error C2065: 'Armour': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(128): error C2146: syntax error: missing ';' before identifier 'glove'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(128): error C2065: 'glove': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(128): error C2653: 'ArmourType': is not a class or namespace name
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(128): error C2065: 'Leather': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(129): error C2065: 'Armour': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(129): error C2146: syntax error: missing ';' before identifier 'chainMail'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(129): error C2065: 'chainMail': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(129): error C2653: 'ArmourType': is not a class or namespace name
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(129): error C2065: 'Steel': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(133): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(133): error C2228: left of '.PickUpWeapon' must have class/struct/union
+  c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(133): note: type is 'unknown-type'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(133): error C2065: 'spear': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(134): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(134): error C2228: left of '.PickUpArmour' must have class/struct/union
+  c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(134): note: type is 'unknown-type'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(134): error C2065: 'glove': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(135): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(135): error C2228: left of '.PickUpArmour' must have class/struct/union
+  c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(135): note: type is 'unknown-type'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(135): error C2065: 'chainMail': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(147): error C2065: 'Brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(147): error C2146: syntax error: missing ';' before identifier 'brawler'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(147): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(147): error C2653: 'CharacterState': is not a class or namespace name
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(147): error C2065: 'Idle': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(148): error C2065: 'Weapon': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(148): error C2146: syntax error: missing ';' before identifier 'spear'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(148): error C2065: 'spear': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(149): error C2065: 'Weapon': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(149): error C2146: syntax error: missing ';' before identifier 'bow'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(149): error C2065: 'bow': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(153): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(153): error C2228: left of '.PickUpWeapon' must have class/struct/union
+  c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(153): note: type is 'unknown-type'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(153): error C2065: 'spear': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(154): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(154): error C2228: left of '.PickUpWeapon' must have class/struct/union
+  c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(154): note: type is 'unknown-type'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(154): error C2065: 'bow': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(166): error C2065: 'Brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(166): error C2146: syntax error: missing ';' before identifier 'brawler'
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(166): error C2065: 'brawler': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(166): error C2653: 'CharacterState': is not a class or namespace name
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(166): error C2065: 'Idle': undeclared identifier
+c:\users\cgf16tar\downloads\oop_assiginment_23\oop assiginment 23\unittest1\unittest1.cpp(166): fatal error C1003: error count exceeds 100; stopping compilation
